@@ -1,3 +1,6 @@
+print ("hello world")
+print ("Welcome")
+
 a = 200
 b = 300
 p = a + b / 2
