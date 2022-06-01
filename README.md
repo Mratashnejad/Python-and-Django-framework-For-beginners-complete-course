@@ -4,7 +4,7 @@
 Hello every one.
 This is python and Django complete course for beginners refferal to 
 https://www.udemy.com/course/python-and-django-for-beginners/learn/lecture/19381092 
-study course from Udemy.com 
+study course from https://Udemy.com 
 
 course are in two section as 
 Part 1 : python besics To advance
